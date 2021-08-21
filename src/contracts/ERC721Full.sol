@@ -1,7 +1,7 @@
 
 // File: @openzeppelin/contracts/introspection/IERC165.sol
 
-pragma solidity ^0.5.0;
+pragma solidity ^0.5.0;;
 
 /**
  * @dev Interface of the ERC165 standard, as defined in the
@@ -26,7 +26,7 @@ interface IERC165 {
 
 // File: @openzeppelin/contracts/token/ERC721/IERC721.sol
 
-pragma solidity ^0.5.0;
+pragma solidity ^0.5.0;;
 
 
 /**
@@ -81,7 +81,7 @@ contract IERC721 is IERC165 {
 
 // File: @openzeppelin/contracts/token/ERC721/IERC721Receiver.sol
 
-pragma solidity ^0.5.0;
+pragma solidity ^0.5.0;;
 
 /**
  * @title ERC721 token receiver interface
@@ -109,7 +109,7 @@ contract IERC721Receiver {
 
 // File: @openzeppelin/contracts/math/SafeMath.sol
 
-pragma solidity ^0.5.0;
+pragma solidity ^0.5.0;;
 
 /**
  * @dev Wrappers over Solidity's arithmetic operations with added overflow
